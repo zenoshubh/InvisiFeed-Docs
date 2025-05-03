@@ -249,7 +249,7 @@ Want a demo, walkthrough, or request access to the private repo?
 #### **Sneha Sharma**
 * Email: [snehav2109@gmail.com](mailto:snehav2109@gmail.com)
 * Twitter: [@SnehaDevs](https://x.com/SnehaDevs)
-* LinkedIn: [@shubh-v21](https://linkedin.com/in/ss0807)
+* LinkedIn: [@ss0807](https://linkedin.com/in/ss0807)
 
 ---
 
