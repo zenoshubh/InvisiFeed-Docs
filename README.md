@@ -14,8 +14,8 @@
 * Analyze performance and improve service quality with the help of AI
 * Automate and simplify the invoice-to-feedback lifecycle
 
-![InvisiFeed](assets\landing-page.png)
-![How-it-Works](assets\how-invisifeed-works.png)
+![InvisiFeed](assets/landing-page.png)
+![How-it-Works](assets/how-invisifeed-works.png)
 
 
 It transforms traditional invoices into **Smart Invoices** by embedding feedback forms and reward coupons directly inside downloadable PDF invoices.
