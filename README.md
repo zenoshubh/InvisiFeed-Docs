@@ -1,6 +1,7 @@
 # InvisiFeed: The SaaS That Turns Invoices Into Growth Machines!
 
 **Live App:** [invisifeed.vercel.app](https://invisifeed.vercel.app)
+
 **Status:** ✅ Fully Functional | 🔐 Main Codebase is Private | 📄 This Repo is for Documentation Only
 
 ---
