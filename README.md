@@ -2,7 +2,7 @@
 
 **Live App:** [invisifeed.vercel.app](https://invisifeed.vercel.app)
 
-**Status:** ✅ Fully Functional | 🔐 Main Codebase is Private | 📄 This Repo is for Documentation Only
+**Status:** ✅ Fully Functional | 📄 This Repo is for Documentation Only
 
 ---
 
@@ -20,17 +20,6 @@
 
 
 It transforms traditional invoices into **Smart Invoices** by embedding feedback forms and reward coupons directly inside downloadable PDF invoices.
-
----
-
-## ❗ Note about this Repository
-
-> ⚠️ This repository is strictly for **documentation purposes only**.
-
-* The **actual project source code is hosted in a private repository** to protect the intellectual property and prevent unauthorized replication.
-* If you are an interested recruiter, potential collaborator, or reviewer, please contact the maintainer for access or demo requests.
-
-![Codebase Preview](assets/repo-insights.png)
 
 ---
 
